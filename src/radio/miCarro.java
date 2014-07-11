@@ -16,6 +16,16 @@ public class miCarro implements Radio {
     protected double estacionAM,estacionFM,estacion;
     protected double[] favoritos;
     
+     public miCarro(){
+        this.frecuencia = frecuencia;
+        this.encendido = encendido;
+        this.boton = boton;
+        this.estacionAM = estacionAM;
+        this.estacionFM = estacionFM;
+        this.estacion = estacion;
+        this.favoritos = favoritos;
+     }
+     
     public miCarro(boolean frecuencia,boolean encendido,int boton,double estacionAM,double estacionFM,double estacion,double[] favoritos){
         frecuencia = true;
         encendido = true;
