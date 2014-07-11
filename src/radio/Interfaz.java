@@ -162,6 +162,8 @@ public class Interfaz{
 	private class ButtonListener implements ActionListener{
 		public void actionPerformed(ActionEvent mouse){
 			if(mouse.getSource() == bEncender){
+// Aqui tenemos que recibir lo del enable o como se escriba y conectarlo
+// con esto de alguna manera para apagar el radio y encenderlo
 				if(bandera1 == true){
 					JOptionPane.showMessageDialog(null, "Gracias por utilizar nuestro radio");
 					bEncender.setText("OFF");
