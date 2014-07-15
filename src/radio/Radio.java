@@ -2,7 +2,7 @@
  * Universidad del Valle de Guatemala 
  * Algoritmos y Estructura de Datos
  * Max de Leon
- * Henry Orellana
+ * Henry Orellana 13048
  * Javier Bucaro 13033
  * Radio.java implementara los metodos para la creacion de una radio
  */
