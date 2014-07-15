@@ -1,7 +1,7 @@
 //****************************************************************
 // Javier Búcaro Carné: 13.... (CADA QUIEN PONGA SU CARNE)
 // Max de León Carné: 13012
-// Hendry Orellana Carné: 13048
+// Henry Orellana Carné: 13048
 // Sección: 21
 // Última modificación: 10/07/20134
 // Nombre de Archivo: Archivo.java
